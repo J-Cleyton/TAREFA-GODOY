@@ -46,6 +46,33 @@ A interface web permite visualizar e gerenciar as imagens. Para acessá-la, abra
 - Um modal para fazer o upload de fotos.
 - Uma grade para exibir as fotos carregadas.
 
+Backend
+
+O backend do projeto é construído com Node.js e Express, e utiliza MongoDB para armazenamento de dados. Aqui estão alguns detalhes adicionais:
+
+    Node.js: Plataforma de desenvolvimento que permite a execução de código JavaScript no lado do servidor.
+    Express: Framework web para Node.js que facilita a criação de APIs e servidores web.
+    Mongoose: Biblioteca de modelagem de dados para MongoDB, que fornece uma interface para interagir com o banco de dados.
+    Multer: Middleware para manipulação de multipart/form-data, usado para upload de arquivos.
+    dotenv: Carrega variáveis de ambiente de um arquivo .env para a aplicação.
+
+Estrutura de Pastas
+
+    config: Contém a configuração do Multer para upload de arquivos.
+    controllers: Contém os controladores que definem a lógica das rotas.
+    models: Contém os modelos Mongoose para o MongoDB.
+    routes: Contém as definições de rotas da API.
+    db.js: Configuração e conexão com o banco de dados MongoDB.
+    app.js: Arquivo principal que configura o servidor Express e as rotas.
+
+Frontend
+
+O frontend do projeto é uma interface web simples que permite visualizar e gerenciar as imagens. Aqui estão alguns detalhes adicionais:
+
+    HTML: Estrutura básica da interface web.
+    CSS: Estilos para a interface web, incluindo responsividade.
+    JavaScript: Lógica para interagir com a API e atualizar a interface web.
+
 ### Funcionalidades do Script
 O arquivo `script.js` contém a lógica para interagir com a API e atualizar a interface web. As principais funcionalidades incluem:
 - **fetchPhotos**: Busca as fotos da API e as exibe na grade.
