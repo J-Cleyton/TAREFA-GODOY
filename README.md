@@ -98,7 +98,7 @@ O arquivo `style.css` define os estilos para a interface web, incluindo:
 Contribuições são bem-vindas! Sinta-se à vontade para abrir o issues e enviar um pull requests.
 
 ## Licença
-Este projeto está licenciado sob os termos da licença MIT. Veja o arquivo LICENSE nas raiz do projeto para mais detalhes.
+Este projeto está licenciado sob os termos da licença MIT. Veja o arquivo LICENÇA nas raiz do projeto para mais detalhes.
 
 ---
 
