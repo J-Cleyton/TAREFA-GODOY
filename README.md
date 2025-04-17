@@ -105,7 +105,7 @@ Este projeto está licenciado sob os termos da licença MIT. Veja o arquivo LICE
 ```
 MIT Licença
 
-Copyright (c) 2025 [Seu Nome]
+Copyright (c) 2025 johnney Cleyton
 
 Concede-se, por meio deste, permissão, gratuita, a qualquer pessoa que obtenha uma cópia
 deste software e dos arquivos de documentação associados (o "Software"), para lidar
